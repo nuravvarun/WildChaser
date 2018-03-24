@@ -1,0 +1,150 @@
+fileFormatVersion: 2
+guid: 489895274eb624c41b7b3b3626287984
+timeCreated: 1460394945
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: WEAPON SPRITE1_0
+    21300002: WEAPON SPRITE1_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: WEAPON SPRITE1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 27
+        width: 165
+        height: 784
+      alignment: 9
+      pivot: {x: 0.48338416, y: 0.12932216}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 74.241615, y: 53.61142}
+        - {x: 59.241615, y: 63.61142}
+        - {x: 59.241615, y: 316.61142}
+        - {x: 48.241615, y: 323.61142}
+        - {x: 21.241615, y: 328.61142}
+        - {x: 20.241615, y: 595.61145}
+        - {x: 32.241615, y: 605.61145}
+        - {x: 32.241615, y: 673.61145}
+        - {x: 27.241615, y: 681.61145}
+        - {x: 27.241615, y: 682.61145}
+        - {x: -33.758385, y: 682.61145}
+        - {x: -43.758385, y: 680.61145}
+        - {x: -25.758385, y: 598.61145}
+        - {x: -15.758385, y: 594.61145}
+        - {x: -16.758385, y: 329.61142}
+        - {x: -51.758385, y: 322.61142}
+        - {x: -54.758385, y: 316.61142}
+        - {x: -56.758385, y: 63.61142}
+        - {x: -79.758385, y: 42.61142}
+        - {x: -79.758385, y: -38.38858}
+        - {x: -66.758385, y: -51.38858}
+        - {x: -55.758385, y: -98.38858}
+        - {x: -51.758385, y: -101.38858}
+        - {x: 56.241615, y: -101.38858}
+        - {x: 62.241615, y: -91.38858}
+        - {x: 85.241615, y: -34.38858}
+        - {x: 85.241615, y: 26.61142}
+    - name: WEAPON SPRITE1_1
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 27
+        width: 245
+        height: 770
+      alignment: 9
+      pivot: {x: 0.58952224, y: 0.22049744}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 98.56705, y: -62.783035}
+        - {x: 98.56705, y: -48.783035}
+        - {x: 100.56705, y: -42.783035}
+        - {x: 100.56705, y: 51.216965}
+        - {x: 89.56705, y: 78.216965}
+        - {x: 79.56705, y: 92.216965}
+        - {x: 59.567047, y: 110.216965}
+        - {x: 53.567047, y: 112.216965}
+        - {x: 53.567047, y: 566.217}
+        - {x: 54.567047, y: 567.217}
+        - {x: 60.567047, y: 590.217}
+        - {x: 62.567047, y: 600.217}
+        - {x: -59.432953, y: 600.217}
+        - {x: -52.432953, y: 565.217}
+        - {x: -49.432953, y: 566.217}
+        - {x: -49.432953, y: 112.216965}
+        - {x: -60.432953, y: 105.216965}
+        - {x: -74.43295, y: 92.216965}
+        - {x: -82.43295, y: 81.216965}
+        - {x: -87.43295, y: 92.216965}
+        - {x: -80.43295, y: 161.21696}
+        - {x: -84.43295, y: 168.21696}
+        - {x: -122.43295, y: 172.21696}
+        - {x: -139.43295, y: 167.21696}
+        - {x: -144.43295, y: 161.21696}
+        - {x: -144.43295, y: 160.21696}
+        - {x: -131.43295, y: 53.216965}
+        - {x: -134.43295, y: 51.216965}
+        - {x: -144.43295, y: 45.216965}
+        - {x: -144.43295, y: -21.783035}
+        - {x: -133.43295, y: -32.783035}
+        - {x: -135.43295, y: -84.783035}
+        - {x: -135.43295, y: -98.783035}
+        - {x: -84.43295, y: -95.783035}
+        - {x: -84.43295, y: -84.783035}
+        - {x: -50.432953, y: -107.783035}
+        - {x: -62.432953, y: -160.78304}
+        - {x: -63.432953, y: -169.78304}
+        - {x: 68.56705, y: -169.78304}
+        - {x: 69.56705, y: -166.78304}
+        - {x: 53.567047, y: -126.783035}
+        - {x: 65.56705, y: -103.783035}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

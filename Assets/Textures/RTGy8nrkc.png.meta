@@ -1,0 +1,329 @@
+fileFormatVersion: 2
+guid: 1e81136a81fb2f2419065c15f6f913f2
+timeCreated: 1458805157
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: RTGy8nrkc_0
+    21300002: RTGy8nrkc_1
+    21300004: RTGy8nrkc_2
+    21300006: RTGy8nrkc_3
+    21300008: RTGy8nrkc_4
+    21300010: RTGy8nrkc_5
+    21300012: RTGy8nrkc_6
+    21300014: RTGy8nrkc_7
+    21300016: RTGy8nrkc_8
+    21300018: RTGy8nrkc_9
+    21300020: RTGy8nrkc_10
+    21300022: RTGy8nrkc_11
+    21300024: RTGy8nrkc_12
+    21300026: RTGy8nrkc_13
+    21300028: RTGy8nrkc_14
+    21300030: RTGy8nrkc_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: RTGy8nrkc_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 203
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 28}
+        - {x: -17, y: -27}
+        - {x: -16, y: -28}
+        - {x: 17, y: -28}
+        - {x: 17, y: 28}
+    - name: RTGy8nrkc_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 203
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 28}
+        - {x: -17, y: -27}
+        - {x: -16, y: -28}
+        - {x: 17, y: -28}
+        - {x: 17, y: 28}
+    - name: RTGy8nrkc_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 203
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 28}
+        - {x: -17, y: -27}
+        - {x: -16, y: -28}
+        - {x: 17, y: -28}
+        - {x: 17, y: 28}
+    - name: RTGy8nrkc_3
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 203
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 28}
+        - {x: -17, y: -27}
+        - {x: -16, y: -28}
+        - {x: 17, y: -28}
+        - {x: 17, y: 28}
+    - name: RTGy8nrkc_4
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 148
+        width: 56
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 17}
+        - {x: -28, y: 16}
+        - {x: -28, y: -17}
+        - {x: 28, y: -17}
+        - {x: 28, y: 17}
+    - name: RTGy8nrkc_5
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 148
+        width: 56
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 17}
+        - {x: -28, y: 16}
+        - {x: -28, y: -17}
+        - {x: 28, y: -17}
+        - {x: 28, y: 17}
+    - name: RTGy8nrkc_6
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 148
+        width: 56
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 17}
+        - {x: -28, y: 16}
+        - {x: -28, y: -17}
+        - {x: 28, y: -17}
+        - {x: 28, y: 17}
+    - name: RTGy8nrkc_7
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 148
+        width: 56
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 17}
+        - {x: -28, y: 16}
+        - {x: -28, y: -17}
+        - {x: 28, y: -17}
+        - {x: 28, y: 17}
+    - name: RTGy8nrkc_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 82
+        width: 56
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 17}
+        - {x: -28, y: 16}
+        - {x: -28, y: -17}
+        - {x: 28, y: -17}
+        - {x: 28, y: 15}
+        - {x: 26, y: 17}
+    - name: RTGy8nrkc_9
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 82
+        width: 56
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 17}
+        - {x: -28, y: 16}
+        - {x: -28, y: -17}
+        - {x: 28, y: -17}
+        - {x: 28, y: 15}
+        - {x: 26, y: 17}
+    - name: RTGy8nrkc_10
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 82
+        width: 56
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 17}
+        - {x: -28, y: 16}
+        - {x: -28, y: -17}
+        - {x: 28, y: -17}
+        - {x: 28, y: 15}
+        - {x: 26, y: 17}
+    - name: RTGy8nrkc_11
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 82
+        width: 56
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 17}
+        - {x: -28, y: 16}
+        - {x: -28, y: -17}
+        - {x: 28, y: -17}
+        - {x: 28, y: 15}
+        - {x: 26, y: 17}
+    - name: RTGy8nrkc_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 5
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 28}
+        - {x: -17, y: -28}
+        - {x: 17, y: -28}
+        - {x: 17, y: 28}
+    - name: RTGy8nrkc_13
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 5
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 28}
+        - {x: -17, y: -28}
+        - {x: 17, y: -28}
+        - {x: 17, y: 28}
+    - name: RTGy8nrkc_14
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 5
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 28}
+        - {x: -17, y: -28}
+        - {x: 17, y: -28}
+        - {x: 17, y: 28}
+    - name: RTGy8nrkc_15
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 5
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 28}
+        - {x: -17, y: -28}
+        - {x: 17, y: -28}
+        - {x: 17, y: 28}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
